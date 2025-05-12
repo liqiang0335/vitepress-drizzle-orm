@@ -3,9 +3,9 @@
 layout: home
 
 hero:
-  name: "drizzle-orm-docs"
-  text: "A VitePress Site"
-  tagline: My great project tagline
+  name: "drizzle-orm 中文文档"
+  text: "drizzle-orm 中文文档"
+  tagline: 一个基于 TypeScript 的 ORM 框架
   actions:
     - theme: brand
       text: Markdown Examples
