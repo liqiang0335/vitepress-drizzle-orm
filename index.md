@@ -3,8 +3,8 @@
 layout: home
 
 hero:
-  name: "drizzle-orm 中文文档"
-  text: "drizzle-orm 中文文档"
+  name: "drizzle-orm"
+  text: "类型安全的数据库驱动"
   tagline: 一个基于 TypeScript 的 ORM 框架
   actions:
     - theme: brand
